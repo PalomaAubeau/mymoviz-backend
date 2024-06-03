@@ -30,11 +30,16 @@ Node.js and npm (or yarn) should be installed on your machine.
 
 ### Installation Steps
 Create a folder with two separated folders into it: one for the backend part, and the other one for the frontend part.
-### 1. Clone this repository:
+### 1. Clone repositories into  separated folders:
+
+BACKEND:
 ```
 https://github.com/PalomaAubeau/mymoviz-backend.git
 ```
-Once the backend repository is cloned, do the same for the frontend repository in the separated folder.
+FRONTEND:
+```
+https://github.com/PalomaAubeau/mymoviz-frontend.git
+```
 Open two terminals to retrieve the backend and frontend parts in parallel.
 ### 2. Install dependencies for both frontend and backend:
 
