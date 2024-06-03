@@ -27,7 +27,9 @@ Node.js and npm (or yarn) should be installed on your machine.
 ### Installation Steps
 Create a folder with two separated folders into it: one for the backend part, and the other one for the frontend part.
 ### Clone this repository:
-
+```
+https://github.com/PalomaAubeau/mymoviz-backend.git
+```
 Once the backend repository is cloned, do the same for the frontend repository in the separated folder.
 Open two terminals to retrieve the backend and frontend parts in parallel.
 ### Install dependencies for both frontend and backend:
@@ -45,7 +47,9 @@ npm (or yarn) install
 Create a .env file in the backend folder.
 Add your required keys and configurations.
 Example:
-```MYMOVIZ_API_KEYS=your_api_key```
+```
+MYMOVIZ_API_KEYS=your_api_key
+```
 
 ## Acknowledgements
 Thanks to The Movie Database (TMDb) for their API that provides movie information.
