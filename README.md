@@ -1,6 +1,10 @@
 # mymoviz-backend
 ## Presentation
 MyMoviz is a website that allows you to display the latest released movies with the ability to create a wishlist, add a view counter, and rate each of the presented movies.
+You can have a complete preview of the application by using this link:
+```
+https://mymoviz-frontend-git-main-paloma-aubeaus-projects.vercel.app/
+```
 ![MyMovizScreenshot](https://github.com/PalomaAubeau/mymoviz-backend/assets/154338327/4fd7e968-f490-4020-b873-208cab997f8f)
 
 ## Features
@@ -26,13 +30,13 @@ Node.js and npm (or yarn) should be installed on your machine.
 
 ### Installation Steps
 Create a folder with two separated folders into it: one for the backend part, and the other one for the frontend part.
-### Clone this repository:
+### 1. Clone this repository:
 ```
 https://github.com/PalomaAubeau/mymoviz-backend.git
 ```
 Once the backend repository is cloned, do the same for the frontend repository in the separated folder.
 Open two terminals to retrieve the backend and frontend parts in parallel.
-### Install dependencies for both frontend and backend:
+### 2. Install dependencies for both frontend and backend:
 
 ```
 cd backend
@@ -43,12 +47,23 @@ cd ../frontend
 npm (or yarn) install
 ```
 
-### Configure environment variables:
+### 3. Configure environment variables:
 Create a .env file in the backend folder.
 Add your required keys and configurations.
 Example:
 ```
 MYMOVIZ_API_KEYS=your_api_key
+```
+### 4. Start the application:
+Backend (you can use npm or yarn):
+```
+cd backend
+yarn start
+```
+Frontend (you can use npm or yarn):
+```
+cd frontend
+yarn dev
 ```
 
 ## Acknowledgements
