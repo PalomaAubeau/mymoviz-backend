@@ -1,7 +1,7 @@
 # mymoviz-backend
 ## Presentation
 MyMoviz is a website that allows you to display the latest released movies with the ability to create a wishlist, add a view counter, and rate each of the presented movies.
-
+![Screenshot of MyMoviz](images/screenshot.png)
 ## Features
 Latest Releases Display: View recently released movies with their posters, summaries, and evaluation.
 Add Preferences: Rate each of the presented movies and visualize the number oif times you have seen the movie.
