@@ -1,7 +1,8 @@
 # mymoviz-backend
 ## Presentation
 MyMoviz is a website that allows you to display the latest released movies with the ability to create a wishlist, add a view counter, and rate each of the presented movies.
-![Screenshot of MyMoviz](images/screenshot.png)
+![MyMovizScreenshot](https://github.com/PalomaAubeau/mymoviz-backend/assets/154338327/4fd7e968-f490-4020-b873-208cab997f8f)
+
 ## Features
 Latest Releases Display: View recently released movies with their posters, summaries, and evaluation.
 Add Preferences: Rate each of the presented movies and visualize the number oif times you have seen the movie.
@@ -26,6 +27,7 @@ Node.js and npm (or yarn) should be installed on your machine.
 ### Installation Steps
 Create a folder with two separated folders into it: one for the backend part, and the other one for the frontend part.
 ### Clone this repository:
+
 Once the backend repository is cloned, do the same for the frontend repository in the separated folder.
 Open two terminals to retrieve the backend and frontend parts in parallel.
 ### Install dependencies for both frontend and backend:
